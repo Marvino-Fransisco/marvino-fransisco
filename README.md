@@ -63,16 +63,17 @@ Studying **macroeconomic systems** and **investment frameworks**.
 * Systems Engineering
 * Experimental Programming
 * Macro Investing
-* Futures Market Structure
+* Futures Market
 
 ---
 
-## 🛠 Tech Stack
-
-* Go
-* JavaScript / TypeScript
-* AI APIs
-* Data Analysis
+## ⚙️ Engineering Domains
+* System Design
+* Clean Code Architecture
+* Code Infrastructure
+* Developer Experience (DX)
+* CI / CD Pipelines
+* Reliability & Scalability
 
 ---
 
