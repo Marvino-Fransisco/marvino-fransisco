@@ -67,7 +67,7 @@ Studying **macroeconomic systems** and **investment frameworks**.
 
 ---
 
-## ⚙️ Engineering Domains
+## ⚙️ Engineering Practice
 * System Design
 * Clean Code Architecture
 * Code Infrastructure
