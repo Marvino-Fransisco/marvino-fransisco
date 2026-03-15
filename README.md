@@ -1,5 +1,5 @@
 Hello
-![test](https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/lottie.json)
+![(https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/lottie.json)]
 
 > Curious systems researcher exploring **AI agents, software systems, and market structures**.
 
