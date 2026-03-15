@@ -1,4 +1,4 @@
-# I am a
+# Who am I?
 
 > Curious systems researcher exploring **AI agents, software systems, and market structures**.
 
