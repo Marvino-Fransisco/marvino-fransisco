@@ -1,23 +1,11 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" /> Hello! Nice To Meet You
 
 Welcome to my page!
-I'm Marvino, A Software engineer from 🇮🇩 Indonesia.
+I'm Marvino, a **Software Engineer** from 🇮🇩 **Jakarta, Indonesia**.
+Currently I am interested in **AI Agents** and **Macroeconomy**.
 
 ---
 
-## 🧠 Biography
-
-Exploring the intersection of:
-
-* 🤖 **AI Agents**
-* 🧩 **Software Engineering**
-* 🏗 **System Design**
-* ⚙️ **DevOps & Developer Experience**
-* 🧪 **Experimental Technologies**
-
-Focused on building systems that improve **productivity, automation, and scalability**.
-
-Interested in understanding systems deeply — from **AI reasoning** to **reliable infrastructure**.
 
 ---
 
