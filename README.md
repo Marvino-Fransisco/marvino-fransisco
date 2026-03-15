@@ -47,7 +47,7 @@ team **environment** where developers **love** to work and build together.
 |---------|-------------|
 
 ## My Portfolio
-
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Software-Project-2fb31bda895e80ff9561c719007a17b9)
 
 
 ## Find Me In
