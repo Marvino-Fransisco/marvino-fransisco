@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" /> Hello, nice to meet you.
 
-<img src="./assets/frieren_chillin.gif" align="right" width="304"/>
+<img src="./assets/frieren_chillin.gif" align="right" width="296"/>
 
 Welcome to my page!<br>
 I'm Marvino, a **Software Engineer** from 🇮🇩 **Jakarta, Indonesia**.
