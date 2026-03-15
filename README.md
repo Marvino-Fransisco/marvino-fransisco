@@ -1,7 +1,7 @@
-Hello
-![(https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/lottie.json)]
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" /> Hello! Nice To Meet You
 
-> Curious systems researcher exploring **AI agents, software systems, and market structures**.
+Welcome to my page!
+I'm Marvino, A Software engineer from 🇮🇩 Indonesia.
 
 ---
 
