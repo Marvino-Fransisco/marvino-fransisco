@@ -59,7 +59,7 @@ team **environment** where developers **love** to work and build **together**.
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marvino-fransisco)
 
 ## Contact Me
-![icon](./assets/gmail_icon_2020.svg) • marvino.work@gmail.com
+<img src="./assets/gmail_icon_2020.svg" width="24" height="24" /> • marvino.work@gmail.com
 
 ---
 
