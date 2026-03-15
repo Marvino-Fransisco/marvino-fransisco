@@ -66,6 +66,14 @@ I'm Marvino, a **Software Engineer** from 🇮🇩 **Jakarta, Indonesia**.
 
 ---
 
+## Find me in
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Contact me
+marvino.work@gmail.com
+
 <p align="center">
   <sub>Research • Build • Experiment • Iterate</sub>
 </p>
