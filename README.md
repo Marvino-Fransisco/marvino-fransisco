@@ -8,13 +8,13 @@ I'm Marvino, a **Software Engineer** from 🇮🇩 **Jakarta, Indonesia**.
 I enjoy **building software** that everyone can use, and **creating** a<br>
 team **environment** where developers **love** to work and build **together**.
 
----
-
 ### ⚡ When I'm Not Coding
 
 - 🍳 **Favorite food:** Nasi Goreng — a classic never gets old
 - 🏸 **Hobbies:** Gym and badminton — keeping both the body and smash game strong
 - 🧩 **Also into:** Speed Cubing — because debugging code isn't enough of a puzzle
+
+---
 
 ### Current Tech Stack
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
