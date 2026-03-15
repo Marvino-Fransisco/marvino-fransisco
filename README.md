@@ -67,13 +67,16 @@ Studying **macroeconomic systems** and **investment frameworks**.
 
 ---
 
-## ⚙️ Engineering Practice
-* System Design
-* Clean Code Architecture
-* Code Infrastructure
-* Developer Experience (DX)
-* CI / CD Pipelines
-* Reliability & Scalability
+## ⚙️ Engineering Domains
+
+* Systems Thinking & Architecture
+* Distributed Systems & Event Driven Applications
+* AI Agent Systems & LLM Applications
+* CI/CD Automation & Developer Experience
+* Containerized Infrastructure & Cloud Deployment
+* Scalable and Reliable System Design
+* Messaging Systems & Asynchronous Architectures
+* Data Systems (Relational & Non-Relational)
 
 ---
 
