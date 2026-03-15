@@ -64,7 +64,6 @@ team **environment** where developers **love** to work and build **together**.
 </p>
 
 <br>
-<br>
 
 <p align="center">
   <sub>Research • Build • Experiment • Iterate</sub>
