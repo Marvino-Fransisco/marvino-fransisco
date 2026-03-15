@@ -3,7 +3,16 @@
 Welcome to my page!<br>
 I'm Marvino, a **Software Engineer** from 🇮🇩 **Jakarta, Indonesia**.
 
-### Current tech stack
+I enjoy building software that everyone can use, and creating a<br>
+team environment where developers love to work and build together.
+
+### ⚡ When I'm Not Coding
+
+- 🍳 **Favorite food:** Nasi Goreng — a classic never gets old
+- 🏸 **Hobbies:** Gym and badminton — keeping both the body and smash game strong
+- 🧩 **Also into:** Solving Rubik's cubes — because debugging code isn't enough of a puzzle
+
+### Current Tech Stack
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/gin-blue?style=for-the-badge)
@@ -33,13 +42,21 @@ I'm Marvino, a **Software Engineer** from 🇮🇩 **Jakarta, Indonesia**.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![gRPC](https://img.shields.io/badge/gRPC-black?style=for-the-badge&color=%23254C5B)
 
-## Find me in
+## Featured Projects
+| Project | Description |
+|---------|-------------|
+
+## My Portfolio
+
+
+
+## Find Me In
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marvino-fransisco)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/marvino_fu)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marvino-fransisco)
 
-## Contact me
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Gmail</title><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg> marvino.work@gmail.com
+## Contact Me
+
 
 ---
 
