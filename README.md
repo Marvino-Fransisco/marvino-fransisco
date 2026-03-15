@@ -4,7 +4,7 @@ Welcome to my page!<br>
 I'm Marvino, a **Software Engineer** from 🇮🇩 **Jakarta, Indonesia**.
 
 I enjoy **building software** that everyone can use, and **creating** a<br>
-team **environment** where developers **love** to work and build together.
+team **environment** where developers **love** to work and build **together**.
 
 ---
 
@@ -52,7 +52,6 @@ team **environment** where developers **love** to work and build together.
 
 ## My Portfolio
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Software-Project-2fb31bda895e80ff9561c719007a17b9)
-
 
 ## Find Me In
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marvino-fransisco)
