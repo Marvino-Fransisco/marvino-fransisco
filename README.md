@@ -10,7 +10,7 @@ team **environment** where developers **love** to work and build **together**.
 
 ### ⚡ When I'm Not Coding
 
-* 🍳 **Favorite food:** Nasi Goreng • a classic never get old
+- 🍳 **Favorite food:** Nasi Goreng • a classic never get old
 - 🏸 **Hobbies:** Gym and badminton • keeping both the body and smash game strong
 - 🧩 **Also into:** Speed Cubing • because debugging code isn't enough of a puzzle
 - 🎧 **Music:** J-Pop • Japan R&B / Soul • Japan Hip-Hop • K-Pop
