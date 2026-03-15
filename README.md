@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" /> Hello, nice to meet you.
 
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=200&width=2000" />
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=200&width=2000&bannerText=Welcome to my page!" />
 
 Welcome to my page!
 
