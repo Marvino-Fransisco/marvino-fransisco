@@ -1,4 +1,4 @@
-# Marvino Fransisco
+# I am a
 
 > Curious systems researcher exploring **AI agents, software systems, and market structures**.
 
