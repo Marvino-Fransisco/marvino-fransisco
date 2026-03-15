@@ -63,8 +63,6 @@ team **environment** where developers **love** to work and build **together**.
   <img src="./assets/gmail_icon_2020.svg" width="20" height="20" />&nbsp;&nbsp;<b>marvino.work@gmail.com</b>
 </p>
 
----
-
 <p align="center">
   <sub>Research • Build • Experiment • Iterate</sub>
 </p>
