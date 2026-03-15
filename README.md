@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" /> Hello, nice to meet you.
 
-<img src="./assets/frieren_chillin.gif" align="right" width="216"/>
+<img src="./assets/frieren_chillin.gif" align="right" width="288"/>
 
 Welcome to my page!<br>
 I'm Marvino, a **Software Engineer** from 🇮🇩 **Jakarta, Indonesia**.
@@ -10,11 +10,10 @@ team **environment** where developers **love** to work and build **together**.
 
 ### ⚡ When I'm Not Coding
 
-- 🍳 **Favorite food:** Nasi Goreng — a classic never gets old
-- 🏸 **Hobbies:** Gym and badminton — keeping both the body and smash game strong
-- 🧩 **Also into:** Speed Cubing — because debugging code isn't enough of a puzzle
-- 🎧 **Music:** J-Pop • Japan R&B / Soul • Japan Hip-Hop • K-Pop - relieving my overheat brain
-
+- 🍳 **Favorite food:** Nasi Goreng
+- 🏸 **Hobbies:** Gym and badminton
+- 🧩 **Also into:** Speed Cubing
+- 🎧 **Music:** J-Pop • Japan R&B / Soul • Japan Hip-Hop • K-Pop
 ---
 
 ### Current Tech Stack
