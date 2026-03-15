@@ -10,7 +10,7 @@ team **environment** where developers **love** to work and build together.
 
 - 🍳 **Favorite food:** Nasi Goreng — a classic never gets old
 - 🏸 **Hobbies:** Gym and badminton — keeping both the body and smash game strong
-- 🧩 **Also into:** Solving Rubik's cubes — because debugging code isn't enough of a puzzle
+- 🧩 **Also into:** Speed Cubing — because debugging code isn't enough of a puzzle
 
 ### Current Tech Stack
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
