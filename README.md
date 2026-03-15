@@ -1,42 +1,47 @@
 # Marvino Fransisco
 
+> Curious systems researcher exploring **AI agents, software systems, and market structures**.
+
+---
+
 ## 🧠 Biography
 
-Curious researcher exploring:
+Exploring the intersection of:
 
-* AI Agents
-* Software Engineering
-* System Design
-* DevOps & Developer Experience
-* Experimental Technologies
+* 🤖 **AI Agents**
+* 🧩 **Software Engineering**
+* 🏗 **System Design**
+* ⚙️ **DevOps & Developer Experience**
+* 🧪 **Experimental Technologies**
 
-Focused on building systems that **improve productivity, automation, and scalability**.
+Focused on building systems that improve **productivity, automation, and scalability**.
+
 Interested in understanding systems deeply — from **AI reasoning** to **reliable infrastructure**.
 
 ---
 
 ## 🚧 On-Going Projects
 
-### Moufube
+### 🤖 Moufube
 
-Researching and building **AI Agent systems**.
+Research and experimentation on **AI Agent systems**.
 
 Focus areas:
 
 * Prompt & Context Engineering
 * Agent Design Patterns
 * Kubernetes & Cloud Deployment
-* Scalable Architecture
-* Developer Experience (DX) environments
-* Engineering trade-offs and system reasoning
+* Scalable System Architecture
+* Developer Experience (DX)
+* Engineering trade-offs
 
 ---
 
-### Crypto Analyst
+### 📈 Crypto Analyst
 
-Developing a **24/7 crypto futures analysis system** using Openclaw.
+Building a **24/7 crypto futures market analysis system** using Openclaw.
 
-Frameworks used:
+Frameworks:
 
 **Technical**
 
@@ -47,11 +52,11 @@ Frameworks used:
 
 **Fundamental**
 
-* (Currently in research)
+* *(Currently researching)*
 
 ---
 
-### Macro & Financial Research
+### 🌍 Macro & Financial Research
 
 Studying **macroeconomic systems** and **investment frameworks**.
 
@@ -59,29 +64,36 @@ Studying **macroeconomic systems** and **investment frameworks**.
 
 ## 🧪 Research Interests
 
-* AI Agents
-* Systems Engineering
-* Experimental Programming
-* Macro Investing
-* Futures Market
+* 🤖 AI Agent Systems
+* 🏗 Systems Engineering
+* 🧪 Experimental Programming
+* 📊 Macro Investing
+* 📉 Futures Market Structure
 
 ---
 
 ## ⚙️ Engineering Domains
 
-* Systems Thinking & Architecture
-* Distributed Systems & Event Driven Applications
-* AI Agent Systems & LLM Applications
-* CI/CD Automation & Developer Experience
-* Containerized Infrastructure & Cloud Deployment
-* Scalable and Reliable System Design
-* Messaging Systems & Asynchronous Architectures
-* Data Systems (Relational & Non-Relational)
+* 🧠 Systems Thinking & Architecture
+* 🔗 Distributed & Event-Driven Systems
+* 🤖 AI Agent & LLM Applications
+* 🔄 CI/CD Automation
+* 🧑‍💻 Developer Experience (DX)
+* 🐳 Containerized Infrastructure
+* ☁️ Cloud Deployment
+* 📡 Messaging & Asynchronous Systems
+* 🗄 Data Systems (Relational / Non-Relational)
 
 ---
 
-## 📌 Current Focus
+## 🎯 Current Focus
 
 * Building experimental **AI tools**
 * Studying **macroeconomic frameworks**
 * Improving **software architecture**
+
+---
+
+<p align="center">
+  <sub>Research • Build • Experiment • Iterate</sub>
+</p>
