@@ -33,38 +33,6 @@ I'm Marvino, a **Software Engineer** from 🇮🇩 **Jakarta, Indonesia**.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![gRPC](https://img.shields.io/badge/gRPC-black?style=for-the-badge&color=%23254C5B)
 
-## 🧪 Research Interests
-
-* 🤖 AI Agent Systems
-* 🏗 Systems Engineering
-* 🧪 Experimental Programming
-* 📊 Macro Investing
-* 📉 Futures Market
-
----
-
-## ⚙️ Engineering Domains
-
-* 🧠 Systems Thinking & Architecture
-* 🔗 Distributed & Event-Driven Systems
-* 🤖 AI Agent & LLM Applications
-* 🔄 CI/CD Automation
-* 🧑‍💻 Developer Experience (DX)
-* 🐳 Containerized Infrastructure
-* ☁️ Cloud Deployment
-* 📡 Messaging & Asynchronous Systems
-* 🗄 Data Systems (Relational / Non-Relational)
-
----
-
-## 🎯 Current Focus
-
-* Building experimental **AI tools**
-* Studying **macroeconomic frameworks**
-* Improving **software architecture**
-
----
-
 ## Find me in
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marvino-fransisco)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/marvino_fu)
