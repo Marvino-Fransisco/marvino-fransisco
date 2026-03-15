@@ -13,6 +13,7 @@ team **environment** where developers **love** to work and build **together**.
 - 🍳 **Favorite food:** Nasi Goreng — a classic never gets old
 - 🏸 **Hobbies:** Gym and badminton — keeping both the body and smash game strong
 - 🧩 **Also into:** Speed Cubing — because debugging code isn't enough of a puzzle
+- 🎧 **Music:** J-Pop • Japan R&B / Soul • Japan Hip-Hop • K-Pop
 
 ---
 
