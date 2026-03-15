@@ -60,7 +60,7 @@ team **environment** where developers **love** to work and build **together**.
 
 ## Contact Me
 <div>
-  <img src="./assets/gmail_icon_2020.svg" width="20" height="20" /> marvino.work@gmail.com
+  <img src="./assets/gmail_icon_2020.svg" width="20" height="20" />  <b>marvino.work@gmail.com</b>
 </div>
 
 ---
