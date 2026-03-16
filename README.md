@@ -47,7 +47,7 @@ team **environment** where developers **love** to work and build **together**.
 ![gRPC](https://img.shields.io/badge/gRPC-black?style=for-the-badge&color=%23254C5B)
 
 ## Contributing To
-- Aqui
+- **Aqui**
 
 ## Featured Projects
 | Project | Description |
