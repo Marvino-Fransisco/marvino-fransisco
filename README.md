@@ -16,8 +16,7 @@ team **environment** where developers **love** to work and build **together**.
 - 🎧 **Music:** J-Pop • Japan R&B / Soul • Japan Hip-Hop • K-Pop
 ---
 
-## Contributing To
-  ### Aqui
+## Contributing To _Aqui_
 
 ### Current Tech Stack
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
