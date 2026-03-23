@@ -8,7 +8,7 @@ I'm Marvino, a **Software Engineer** from 🇮🇩 **Jakarta, Indonesia**.
 I enjoy **building software** that everyone can use, and **creating** a<br>
 team **environment** where developers **love** to work and build **together**.
 
-### ⚡ When I Enjoy
+### ⚡ What I Enjoy
 
 - 🍳 **Favorite food:** Nasi Goreng • a classic never get old
 - 🏸 **Hobbies:** Gym and badminton • keeping both the body and smash game strong
