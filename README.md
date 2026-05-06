@@ -50,8 +50,8 @@ team **environment** where developers **love** to work and build **together**.
 ## Featured Projects
 | Project | Description |
 |---------|-------------|
-| [Moufube](https://github.com/marvino-fransisco/moufube) | A YouTube mockup app where I explored AI Agent Teams, Microservices, Scalability, Security, and trade-offs across architecture, database, and language choices |
-| [Crypto Analyst](https://github.com/marvino-fransisco/crypto-analyst) | An AI Agents Gateway Service using OpenClaw to analyze technical and fundamnetal for futures crypto market |
+| [Swe](https://github.com/Marvino-Fransisco/swe-projects) | Software Engineering projects by implementing best practices and design patterns to solve real world problems |
+| [ARM (Agent Registry Manager)](https://github.com/Marvino-Fransisco/arm) | AI Agent skill to manage agent registry (custom agent, skils, commands, and prompts) to be used by teams, different hosts, openclaw, etc. |
 
 ## My Portfolio
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Software-Project-2fb31bda895e80ff9561c719007a17b9)
