@@ -54,7 +54,6 @@ team **environment** where developers **love** to work and build **together**.
 | [ARM (Agent Registry Manager)](https://github.com/Marvino-Fransisco/arm) | AI Agent skill to manage agent registry (custom agent, skils, commands, and prompts) to be used by teams, different hosts, openclaw, etc. |
 
 ## My Portfolio
-> On Progress...
 
 ## Find Me In
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marvino-fransisco)
